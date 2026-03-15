@@ -1,4 +1,4 @@
-FreshMart #AI Retention System
+**FreshMart AI Retention System**
 
 The FreshMart AI Retention System is a smart retail analytics platform designed to help businesses improve customer retention through data-driven insights. The system analyzes customer behavior, purchasing patterns, and engagement data to identify customers who are likely to churn.
 
